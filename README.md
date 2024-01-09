@@ -12,3 +12,4 @@ This face recognition project leverages the power of Python, OpenCV, and the k-N
 - **Python:** The primary programming language for developing the face recognition system.
 - **OpenCV:** A powerful open-source computer vision library used for face detection and image manipulation.
 - **k-Nearest Neighbors (kNN):** A machine learning algorithm employed for face recognition.
+- **Haar Cascade :** is a clasifier that detect objects in image.
